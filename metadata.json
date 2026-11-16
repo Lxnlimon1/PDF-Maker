@@ -1,0 +1,6 @@
+{
+  "name": "PDF Master",
+  "description": "PDF Master – Scanner, Maker & Editor: Camera document scanner, genuine PDF content & page editor, annotations, signatures, compression, and multi-format converter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
